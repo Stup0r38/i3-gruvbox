@@ -1,4 +1,4 @@
-# i3-dotfiles
+# i3-gruvbox
 
 ![](/Screenshot.png)
 
